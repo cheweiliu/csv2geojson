@@ -1,5 +1,14 @@
 # 地藉資料Geojson轉換器
 
+## 安裝
+
+```
+gem install bundler
+bundle install
+```
+
+## 使用
+
 地藉資料csv必有欄位：
 
 縣市、段、地號，小段可選。
