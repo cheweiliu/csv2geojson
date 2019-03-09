@@ -54,6 +54,7 @@ def get_feature(data)
   Logging.logger.info geojson
   feature = geojson["features"].first
   if feature == nil
+    print '.'.red
     return false
   end
   feature["properties"] = {}
