@@ -1,5 +1,5 @@
 The MIT License (MIT)
-Copyright © 2015 國會調查兵團 CIC - Congressional Investigation Corps <contact@cic.tw>
+Copyright © 2019 林雨蒼 Billy Zhe-Wei Lin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the “Software”), to deal
